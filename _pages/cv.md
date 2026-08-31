@@ -11,11 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Immunology, Icahn School of Medicine at Mount Sinai, 2024 
 * M.D. from Icahn School of Medicine at Mount Sinai, 2026
+* Ph.D in Immunology, Icahn School of Medicine at Mount Sinai, 2024 
 * B.S. in Biology, Emory University University, 2017
+  * Summa Cum Laude, Highest Honors on thesis
 
-Work experience
+Clinical Training
+======
+* Resident Physician, Clinical Pathology, Mass General Brigham, 2026-Present
+* Clinical Fellow, Harvard Medical School, 2026-Present
+
+Research Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
