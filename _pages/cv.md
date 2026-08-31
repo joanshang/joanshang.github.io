@@ -23,29 +23,41 @@ Clinical Training
 
 Research Experience
 ======
-* 2019–2024: Ph.D. Researcher at Icahn School of Medicine at Mount Sinai, New York, NY with Advisor: Dr. Jeremiah J. Faith
+* 2019–2024: Ph.D. Researcher at Icahn School of Medicine at Mount Sinai, New York, NY with Advisor: Dr. Faith
   * Demonstrated the gut microbiome's role in checkpoint blockade–induced colitis
   * Utilized gnotobiotic mouse models and computational analysis of metagenomic and 16S sequencing analysis of patient microbiome data
   * Thesis work resulted in a first-author publication in the *Journal of Experimental Medicine*
   * Supported by a 5-year F30 NIH fellowship
-  * Collaborative projects resulted in co-first (accepted), second- (published), and third-author (published) publications
+  * Collaborative projects resulted in co-first (*Hepatology Communications*), second- (*Science Immunology*), and third-author (*JCI*) publications
+
+* 2023–2024: Computational Genomics Trainee
+  * Icahn School of Medicine at Mount Sinai, New York, NY
+  * Advisor: Dr. Ron Do
+  * Developed machine learning–based disease risk models using laboratory values and vitals from the electronic health records of more than 10 million patients
+  * Built a robust ETL pipeline for processing and standardizing multi-million-patient datasets for downstream analysis
+  * First-author manuscript submitted
  
-    
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2016–2017: Honors Thesis Student at Emory University, Atlanta, GA with Advisor: Dr. Cassandra Quave
+  * Identified new molecular entities inhibiting *Candida albicans* growth using herbal extracts, antifungal screening assays, and serial dilution to determine minimum inhibitory concentrations
+  * Awarded Highest Honors for thesis
+ 
+* 2015–2016: Undergraduate Student Researcher at Emory University, Atlanta, GA with Advisor: Dr. Wilfried Rossoll
+  * Generated isogenic stem cell lines with CRISPR-Cas9 to model neurodegenerative disease
+ 
+* Summer 2015: CPRIT-CURE Undergraduate Student Researcher at MD Anderson Cancer Center, Houston, TX with Advisor: Dr. Jae-Il Park
+  * Characterized the function of KIAA1211, using CRISPR-Cas9 to generate knockout mice and demonstrate the gene's role in colorectal cancer
+  * Resulted in co-authorship in *Nature Cell Biology*
+ 
+* 2014–2015: Undergraduate Student Researcher at Emory University, Atlanta, GA with Advisor: Dr.  Lewis
+  * Conducted cardiac bioenergetics assays exploring the cardiovascular impact of HIV and methamphetamine, resulting in co-authorship
+  * Resulted in co-authorship in *Toxicology and applied pharmacology*
+ 
+* Summer 2014: Undergraduate Research Intern at Southern Illinois University, Carbondale, IL with Advisor: Dr. Zhihua Du
+  * Conducted structural protein studies via crystallization and molecular biology methods
+ 
+* 2013–2014: Undergraduate Lab Assistant at Emory University, Atlanta, GA with Advisor: Dr. David Pallas
+  * Mouse colony breeding and maintenance, cell culture, genotyping, data collection and analysis
+ 
 Skills
 ======
 * Skill 1
