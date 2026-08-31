@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a physician-scientist currently training as a Clinical Pathology resident at Harvard/Mass General Brigham. My work sits at the intersection of molecular pathology, immuno-oncology, and computational biology — and it's largely driven by one question: why do some patients respond to immunotherapy while others are harmed by it?
 
-I completed my MD/PhD at the Icahn School of Medicine at Mount Sinai, where my doctoral thesis in the Faith Lab demonstrated that the gut microbiome confers susceptibility to immune checkpoint inhibitor–related colitis. That research, supported by an NIH F30 fellowship, produced a first-author paper in the *Journal of Experimental Medicine* on establishing that causation along with demonstrating the microbiome dynamics in immunotherapy-related colitis. Alongside it, I trained in computational genomics and machine learning in Dr. Ron Do's lab, building EHR-based models of disease risk.
+I completed my MD/PhD at the Icahn School of Medicine at Mount Sinai, where my doctoral thesis in the Faith Lab demonstrated that 1) the gut microbiome confers susceptibility to immune checkpoint inhibitor–related colitis and 2) described microbiome dynamics in immunotherapy-related colitis (Shang et al., 2004, *Journal of Experimental Medicine*). Additionally, I trained in computational genomics and machine learning in Dr. Ron Do's lab, building EHR-based models of disease risk (manuscript in submission).
 
 <b> Research interests </b>
 
