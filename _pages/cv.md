@@ -13,7 +13,7 @@ Education
 ======
 * M.D. from Icahn School of Medicine at Mount Sinai, 2026
 * Ph.D in Immunology, Icahn School of Medicine at Mount Sinai, 2024 
-* B.S. in Biology, Emory University University, 2017
+* B.S. in Biology, Emory University, 2017
   * Summa Cum Laude, Highest Honors on thesis
 
 Clinical Training
@@ -84,17 +84,16 @@ Honors and awards
 * 2015: Emory Scholars Program
 * 2015: CPRIT-CURE Summer Research Fellowship, MD Anderson Cancer Center
 
-Talks and presentations
+Oral Presentations
 ======
-Oral presentations
-------
+
 * NCI IOTN Early Career Scientist Award Short Talk, Gaithersburg, MD, 2023
   * "The Role of the Gut Microbiota in Immunotherapy-Related Colitis"
 * NCI IOTN Steering Committee Semi-Annual Meetings (virtual), 2022–2023
   * Co-presented microbiome research at an NCI-moderated forum (20-minute talk with Q&A)
  
 Poster presentations
-------
+======
 * Keystone Symposium on Cancer Immunotherapy, Quebec, Canada, 2026
   * "The Role of the Gut Microbiota in Immunotherapy-Related Colitis"
 * American Association for Cancer Research, Los Angeles, CA, 2026
