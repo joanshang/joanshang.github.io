@@ -13,7 +13,7 @@ I completed my MD/PhD at the Icahn School of Medicine at Mount Sinai, where my d
 
 <b> Research interests </b>
 
-<b> Immune-related adverse events. </b> Checkpoint inhibitors have transformed oncology, but immune-related toxicity remains difficult to anticipate and difficult to manage. My dissertation work traced how gut microbial communities shift in patients who develop immunotherapy-related colitis. I remain interested in the microbiome as both a biomarker and a modifiable variable, as well as expanding beyond microbiome-based biomarkers (e.g. germline mutations, cell free DNA, etc).
+<b> Immune-related adverse events. </b> Checkpoint inhibitors have transformed oncology, but immune-related toxicity remains difficult to anticipate and difficult to manage. My PhD work demonstrated how gut microbial communities can confer susceptibility to immune toxicities caused by these cancer drugs (Shang et al., 2004, *Journal of Experimental Medicine*). I remain interested in the microbiome as both a biomarker and a modifiable variable, as well as expanding beyond microbiome-based biomarkers (e.g. germline mutations, cell free DNA, etc) to better predict and understand immune-related adverse events.
 
 <b> Computational biology and clinical data. </b> I build machine learning models on large-scale electronic health record data, most recently a model for coronary artery disease prediction (manuscript under review), and survival analyses examining how social determinants of health drive disparities in patient outcomes.
 
