@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "github_website_pro_pic.png"
-  name             : "Your Sidebar Name"
+  name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Physician Scientist in Clinical Pathology"
   location         : "Boston"
-  employer         : "Harvard University/Mass General Brigham"
+  employer         : "Harvard/Mass General Brigham"
   uri              : # URL
   email            : #"none@example.org" 
 
