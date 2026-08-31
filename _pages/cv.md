@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Immunology, Icahn School of Medicine at Mount Sinai, 2024 
+* M.D. from Icahn School of Medicine at Mount Sinai, 2026
+* B.S. in Biology, Emory University University, 2017
 
 Work experience
 ======
