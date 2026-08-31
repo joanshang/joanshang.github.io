@@ -23,6 +23,14 @@ Clinical Training
 
 Research Experience
 ======
+* 2019–2024: Ph.D. Researcher at Icahn School of Medicine at Mount Sinai, New York, NY with Advisor: Dr. Jeremiah J. Faith
+  * Demonstrated the gut microbiome's role in checkpoint blockade–induced colitis
+  * Utilized gnotobiotic mouse models and computational analysis of metagenomic and 16S sequencing analysis of patient microbiome data
+  * Thesis work resulted in a first-author publication in the *Journal of Experimental Medicine*
+  * Supported by a 5-year F30 NIH fellowship
+  * Collaborative projects resulted in co-first (accepted), second- (published), and third-author (published) publications
+ 
+    
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
